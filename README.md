@@ -5,7 +5,7 @@
 
 ## 源码
 
-[https://github.com/hq450/fancyss](https://github.com/hq450/fancyss)
+[(https://github.com/onlylove2023/fancyss_history_package)](https://github.com/onlylove2023/fancyss_history_package)
 
 ## 目录说明
 
