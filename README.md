@@ -1,11 +1,11 @@
-# [fancyss - 科学上网离线安装包](https://hq450.github.io/fancyss/)
+# [fancyss - 科学上网离线安装包](https://github.com/onlylove2023/fancyss_history_package)
 
 - Fancyss is a project providing tools to across the GFW on asuswrt/merlin based router with software center. 
 - 此项目提供用于asuswrt、asuswrt-merlin为基础的，带软件中心固件（≥384）路由器的科学上网功能。
 
 ## 源码
 
-[(https://github.com/onlylove2023/fancyss_history_package)](https://github.com/onlylove2023/fancyss_history_package)
+[https://github.com/onlylove2023/fancyss_history_package](https://github.com/onlylove2023/fancyss_history_package)
 
 ## 目录说明
 
